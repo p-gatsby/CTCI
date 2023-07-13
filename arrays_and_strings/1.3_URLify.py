@@ -1,5 +1,5 @@
 # This solution has a time complexity of O(n), where n i s the length of the string. 
-# It is a O(n) time complexity because the function peforms a signle pass through the 
+# It is O(n) time complexity because the function peforms a single pass through the 
 # string to replace the spaces
 
 def urlify(s, n):
