@@ -1,4 +1,6 @@
-
+# This solution time complexity is O(n), where n is the length of the string. This is because it is
+# passing through each character of the string twice - once to create the dictionary and fill it
+# count the number of values
 
 def palindrome_permutation(s):
     H = dict()
